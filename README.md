@@ -3,18 +3,27 @@
 
 ## Contents: ##
 1. [Problem](#problem)
+2. [Pitch Video](#video)
+3. [Solution Architecture](#archi)
+4. [Detailed Solution](#details)
+5. [Getting Started](#start)
+6. [Resources Used](#techstack)
 
 ### Short description of problem we are tackling: <a name="problem"></a>### 
 
 
-### Pitch Video Link: ###
+### Pitch Video Link <a name="video"></a>###
+[View our pitch video]()
 
-### A hyperlink to our detailed solution: ### 
+### Solution Architecture <a name="archi"></a> ###
+![Solution Architecture](https://i.ibb.co/3CTC9r9/Architecture.png)
+
+### A hyperlink to our detailed solution: <a name="details"></a>### 
 [Click here](https://docs.google.com/document/d/1Xt8jDAQUd6ObM6Ji-OM-lAKlcjm6SdfbqoBJ46labT0/edit?usp=sharing)
 
-### Getting started ###
+### Getting started <a name="start"></a>###
 
-### What we used to build our solution (e.g. IBM Cloudant, IBM Cloud Functions, etc...) ###
+### What we used to build our solution (e.g. IBM Cloudant, IBM Cloud Functions, etc...) <a name="techstack"></a>###
 * IBM Cloud Watson Assistant 
 * IBM Cloud Node-RED
 * IBM Cloud AutoAI 
