@@ -1,7 +1,7 @@
 # _SCDForYou-FireFriend_SCDFXIBM_ #
 
 # Team Name: SCDFor You #
-##__Team Members: Yap Pei Zhen, Soh Jing Wen, Husna Alkhatib, Tan Su Yin__##
+## __Team Members: Yap Pei Zhen, Soh Jing Wen, Husna Alkhatib, Tan Su Yin__ ##
 
 ### Short description of problem we are tackling: ### 
 
