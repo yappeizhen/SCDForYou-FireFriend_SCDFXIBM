@@ -30,10 +30,10 @@ Our solution:
 [Click here](https://docs.google.com/document/d/1Xt8jDAQUd6ObM6Ji-OM-lAKlcjm6SdfbqoBJ46labT0/edit?usp=sharing)
 
 
-### <ins>Getting started</ins> <a name="start"></a>   
+### <ins>Getting Started</ins> <a name="start"></a>   
 
 
-### <ins>What we used to build our solution (e.g. IBM Cloudant, IBM Cloud Functions, etc...)</ins> <a name="techstack"></a>
+### <ins>Resources Used (e.g. IBM Cloudant, IBM Cloud Functions, etc...)</ins> <a name="techstack"></a>
 * IBM Cloud Watson Assistant 
 * IBM Cloud Node-RED
 * IBM Cloud AutoAI 
