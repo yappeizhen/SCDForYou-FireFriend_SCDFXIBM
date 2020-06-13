@@ -1,7 +1,10 @@
-# Team Name: SCDFor You #
-## __Team Members: Yap Pei Zhen, Soh Jing Wen, Husna Alkhatib, Tan Su Yin__ ##
+## Team Name: SCDFor You ##
+## Team Members: Yap Pei Zhen, Soh Jing Wen, Husna Alkhatib, Tan Su Yin ##
 
-### Short description of problem we are tackling: ### 
+## Contents: ##
+1. [Problem](#problem)
+
+### Short description of problem we are tackling: <a name="problem"></a>### 
 
 
 ### Pitch Video Link: ###
