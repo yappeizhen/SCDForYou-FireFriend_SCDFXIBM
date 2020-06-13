@@ -27,7 +27,7 @@ Our solution:
 
 
 ### <ins>Our Detailed Solution:</ins> <a name="details"></a>
-[Click here](https://docs.google.com/document/d/1Xt8jDAQUd6ObM6Ji-OM-lAKlcjm6SdfbqoBJ46labT0/edit?usp=sharing)  
+[Click here](https://docs.google.com/document/d/1Xt8jDAQUd6ObM6Ji-OM-lAKlcjm6SdfbqoBJ46labT0/edit?usp=sharing){target="_blank"}  
 
 
 ### <ins>Getting started</ins> <a name="start"></a>   
