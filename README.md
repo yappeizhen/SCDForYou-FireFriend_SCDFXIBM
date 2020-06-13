@@ -16,24 +16,24 @@ How Technology Can Help:
 Our solution:    
 
 
-### Pitch Video Link <a name="video"></a>
+### <ins>Pitch Video Link</ins> <a name="video"></a>
 [View our pitch video]()   
 
 
-### Solution Architecture <a name="archi"></a>
+### <ins>Solution Architecture</ins> <a name="archi"></a>
 ![Solution Architecture](https://i.ibb.co/3CTC9r9/Architecture.png)
 1. AutoAI is used to generate a report regarding the status of the fire.
 2. Watson Assistant chatbot uses speech to text/text to speech function to provide user real-time updates on the status of the fire.   
 
 
-### A hyperlink to our detailed solution: <a name="details"></a>
+### <ins>A hyperlink to our detailed solution:</ins> <a name="details"></a>
 [Click here](https://docs.google.com/document/d/1Xt8jDAQUd6ObM6Ji-OM-lAKlcjm6SdfbqoBJ46labT0/edit?usp=sharing)  
 
 
-### Getting started <a name="start"></a>   
+### <ins>Getting started</ins> <a name="start"></a>   
 
 
-### What we used to build our solution (e.g. IBM Cloudant, IBM Cloud Functions, etc...) <a name="techstack"></a>
+### <ins>What we used to build our solution (e.g. IBM Cloudant, IBM Cloud Functions, etc...)</ins> <a name="techstack"></a>
 * IBM Cloud Watson Assistant 
 * IBM Cloud Node-RED
 * IBM Cloud AutoAI 
