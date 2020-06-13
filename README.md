@@ -2,7 +2,7 @@
 Team Members: Yap Pei Zhen, Soh Jing Wen, Husna Alkhatib, Tan Su Yin
 
 ## Contents:
-1. [Problem](#problem)
+1. [Problem and Solution](#problem)
 2. [Pitch Video](#video)
 3. [Solution Architecture](#archi)
 4. [Detailed Solution](#details)
@@ -16,7 +16,7 @@ How Technology Can Help:
 Our solution:    
 
 
-### <ins>Pitch Video Link</ins> <a name="video"></a>
+### <ins>Pitch Video</ins> <a name="video"></a>
 [View our pitch video]()   
 
 
@@ -26,7 +26,7 @@ Our solution:
 2. Watson Assistant chatbot uses speech to text/text to speech function to provide user real-time updates on the status of the fire.   
 
 
-### <ins>A hyperlink to our detailed solution:</ins> <a name="details"></a>
+### <ins>Our Detailed Solution:</ins> <a name="details"></a>
 [Click here](https://docs.google.com/document/d/1Xt8jDAQUd6ObM6Ji-OM-lAKlcjm6SdfbqoBJ46labT0/edit?usp=sharing)  
 
 
