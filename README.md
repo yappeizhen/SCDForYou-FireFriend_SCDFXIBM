@@ -10,7 +10,7 @@ Team Members: Yap Pei Zhen, Soh Jing Wen, Husna Alkhatib, Tan Su Yin
 6. [Resources Used](#techstack)  
 
 
-### The Problem and Our Solution <a name="problem"></a>
+### <ins>The Problem and Our Solution</ins><a name="problem"></a>
 Problem:  
 How Technology Can Help:  
 Our solution:    
