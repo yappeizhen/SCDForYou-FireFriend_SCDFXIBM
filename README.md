@@ -8,6 +8,7 @@ Team Members: Yap Pei Zhen, Soh Jing Wen, Husna Alkhatib, Tan Su Yin
 4. [Detailed Solution](#details)
 5. [Getting Started](#start)
 6. [Resources Used](#techstack)  
+7. [Future Developments](#future)
 
 
 ### <ins>The Problem and Our Solution</ins><a name="problem"></a>
@@ -42,3 +43,9 @@ We propose to leverage on an IoT network of existing fire-detecting sensors to c
 * IBM Cloud Node-RED
 * IBM Cloud AutoAI 
 * IBM Cloud Functions 
+
+### <ins>Future Developments:</ins> <a name="future"></a>   
+Since all sensors and functions are connected via IoT, they might be able to communicate with each other and activate emergency functions like water sprinklers, building alarms, or fire exit doors.  
+
+To build on our current solution, closed-circuit television (CCTV) cameras in public spaces may also be used in predicting the risk and spread of fires. This can be done through object detection and image classification machine learning models available on IBM Cloud. Hence, image analysis can be done to determine nearby fire hazards and the structure of the premises, thereby predicting the direction, spread, and risk level of the fire. This further enables the SCDF team to plan in advance and act decisively in the face of a fire.
+
