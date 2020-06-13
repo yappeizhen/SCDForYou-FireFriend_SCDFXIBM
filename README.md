@@ -1,5 +1,5 @@
 ## Team Name: SCDFor You 
-## Team Members: Yap Pei Zhen, Soh Jing Wen, Husna Alkhatib, Tan Su Yin
+Team Members: Yap Pei Zhen, Soh Jing Wen, Husna Alkhatib, Tan Su Yin
 
 ## Contents:
 1. [Problem](#problem)
@@ -9,14 +9,18 @@
 5. [Getting Started](#start)
 6. [Resources Used](#techstack)
 
-### Short description of problem we are tackling: <a name="problem"></a>
-
+### The Problem and Our Solution <a name="problem"></a>
+Problem: 
+How Technology Can Help:
+Our solution: 
 
 ### Pitch Video Link <a name="video"></a>
 [View our pitch video]()
 
 ### Solution Architecture <a name="archi"></a>
 ![Solution Architecture](https://i.ibb.co/3CTC9r9/Architecture.png)
+1. AutoAI is used to generate a report regarding the status of the fire.
+2. Watson Assistant chatbot uses speech to text/text to speech function to provide user real-time updates on the status of the fire. 
 
 ### A hyperlink to our detailed solution: <a name="details"></a>
 [Click here](https://docs.google.com/document/d/1Xt8jDAQUd6ObM6Ji-OM-lAKlcjm6SdfbqoBJ46labT0/edit?usp=sharing)
