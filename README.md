@@ -67,15 +67,15 @@ __Creating a chatbot__
 
 __Creating a voice-enabled FireFriend Chatbot__
 1. After Node-RED is installed, add the following packages to the package.json and commit the change:
-  `"Node-red-node-ui-microphone":"0.x",
-  "Node-red-dashboard":"2.x",
-  "Node-red-contrib-play-audio":"2.x"`
+  `"Node-red-node-ui-microphone":"0.x",  
+  "Node-red-dashboard":"2.x",  
+  "Node-red-contrib-play-audio":"2.x"`. 
 
 2. Import NodeRedFlow.json and __Deploy__ the flow
 3. Create a Watson Speech to Text Service instance from the IBM Cloud Catalog.
-  3.1 Click __Service credentials__
-  3.2 Click the __View credentials__ twistie
-  3.3 Copy the API key for future use
+    3.1 Click __Service credentials__
+    3.2 Click the __View credentials__ twistie
+    3.3 Copy the API key for future use
 4. Create a Watson Text to Speech Service instance from the IBM Cloud Catalog, then follow steps 3.1 to 3.3. 
 5. Open the Node-Red application URL
 6. Double click the __speech to text__ node and paste the API key from the Watson Speech to Text service instance. Click __Done__.
