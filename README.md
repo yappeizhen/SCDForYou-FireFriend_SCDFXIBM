@@ -46,7 +46,7 @@ Upon the triggering of any fire-detection alarms (e.g. smoke detector, heat dete
 
 
 ### <ins>Our Detailed Solution</ins> <a name="details"></a>
-[Click here](https://drive.google.com/file/d/1fnH7TuO3yP-5K7T9Txkmg_Vja1RjpZkp/view?usp=sharing)
+[Click here](https://drive.google.com/file/d/11Kcf5LSfMohDnqIdZQo_xiUPpWQPIvCM/view?usp=sharing)
 
 
 ### <ins>Getting Started</ins> <a name="start"></a>     
