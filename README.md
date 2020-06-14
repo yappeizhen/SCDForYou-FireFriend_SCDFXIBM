@@ -92,7 +92,7 @@ __<ins>Using Auto AI to Build a Machine Learning Model</ins>__
 4. Pick the top ranking pipeline to check model details
 5. Save the model and deploy the model    
 
-### <ins>Resources Used (e.g. IBM Cloudant, IBM Cloud Functions, etc...)</ins> <a name="techstack"></a>
+### <ins>Resources Used</ins> <a name="techstack"></a>
 * IBM Cloud Watson Assistant 
 * IBM Cloud Node-RED
 * IBM Cloud AutoAI 
