@@ -50,7 +50,7 @@ Upon the triggering of any fire-detection alarms (e.g. smoke detector, heat dete
 
 
 ### <ins>Getting Started</ins> <a name="start"></a>     
-__Prerequisites__    
+__<ins>Prerequisites</ins>__    
 * Register for an IBM Cloud account  
 * Download the code from [this GitHub repository](https://github.com/yappeizhen/SCDForYou-FireFriend_SCDFXIBM)    
 * Install Node-RED locally or create a Node-RED starter application in IBM Cloud   
