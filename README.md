@@ -40,7 +40,7 @@ Upon the triggering of any fire-detection alarms (e.g. smoke detector, heat dete
 
 
 ### <ins>Solution Architecture</ins> <a name="archi"></a>
-![Solution Architecture](https://i.ibb.co/3CTC9r9/Architecture.png)
+![Solution Architecture](https://i.ibb.co/7Rv0Nv9/Architecture-1.png)
 1. AutoAI is used to generate a report regarding the status of the fire.
 2. Watson Assistant chatbot uses speech to text/text to speech function to provide user real-time updates on the status of the fire.   
 
