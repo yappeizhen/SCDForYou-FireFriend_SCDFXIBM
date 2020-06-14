@@ -36,7 +36,7 @@ Upon the triggering of any fire-detection alarms (e.g. smoke detector, heat dete
 
 
 ### <ins>Pitch Video</ins> <a name="video"></a>
-[View our pitch video]()   
+[View our pitch video](https://youtu.be/w9tKJSQbDus)   
 
 
 ### <ins>Solution Architecture</ins> <a name="archi"></a>
