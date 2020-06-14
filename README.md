@@ -70,7 +70,6 @@ __Creating a voice-enabled FireFriend Chatbot__
   `"Node-red-node-ui-microphone":"0.x",  
   "Node-red-dashboard":"2.x",  
   "Node-red-contrib-play-audio":"2.x"`. 
-
 2. Import NodeRedFlow.json and __Deploy__ the flow
 3. Create a Watson Speech to Text Service instance from the IBM Cloud Catalog.
     1. Click __Service credentials__
@@ -92,7 +91,6 @@ __Using Auto AI to Build a Machine Learning Model__
 3. Click __Run experiment__
 4. Pick the top ranking pipeline to check model details
 5. Save the model and deploy the model    
-
 
 ### <ins>Resources Used (e.g. IBM Cloudant, IBM Cloud Functions, etc...)</ins> <a name="techstack"></a>
 * IBM Cloud Watson Assistant 
