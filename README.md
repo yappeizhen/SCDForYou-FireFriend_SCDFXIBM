@@ -56,7 +56,7 @@ __Prerequisites__
 * Install Node-RED locally or create a Node-RED starter application in IBM Cloud   
 * Have a working project
 
-__Creating a chatbot__
+__<ins>Creating a chatbot</ins>__
 1. Create a Watson Assistant instance  
 2. Click __Add Dialog skill__ to build on your assistant   
 3. Click __Import skill > Choose JSON file__ and import the WatsonAssistantDialogSkill.json file 
@@ -65,7 +65,7 @@ __Creating a chatbot__
 6. Go back to the All Assistants page and click on the __Skills__ link, open the action menu and click __View API__ Details. Make a note of the *Skill ID* for future use  
 7. Go back to your dialog skill and click on the __Preview Link__ button on the side to get a link to test your assistant. You may ask questions such as, “Where is the fire?”, and “How hot is the fire?”  
 
-__Creating a voice-enabled FireFriend Chatbot__
+__<ins>Creating a voice-enabled FireFriend Chatbot</ins>__
 1. After Node-RED is installed, add the following packages to the package.json and commit the change:
   `"Node-red-node-ui-microphone":"0.x",  
   "Node-red-dashboard":"2.x",  
@@ -85,7 +85,7 @@ __Creating a voice-enabled FireFriend Chatbot__
 11. To talk to the chatbot, click on the microphone input button and ask a question related to the fire incident.  
 
 
-__Using Auto AI to Build a Machine Learning Model__
+__<ins>Using Auto AI to Build a Machine Learning Model</ins>__
 1. Prepare the data in the dataset given
 2. Add the dataset as an asset to Auto AI
 3. Click __Run experiment__
